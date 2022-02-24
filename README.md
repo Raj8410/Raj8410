@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj8410
-- 👀 I’m interested in personality Development and a public speaker
+- 👀 I’m interested in java, personality Development and a public speaking
 - 🌱 I’m currently learning java and public speaking skills and improving personality developement 
 - 💞️ I’m looking to collaborate on java and manual testing 
 - 📫 How to reach me call me 7204998410
